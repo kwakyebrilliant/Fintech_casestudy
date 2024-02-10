@@ -2,7 +2,7 @@
 """
 Created on Sat Aug 18 19:15:48 2018
 
-@author: Rony Sulca
+@author: Brilliant
 """
 
 #### Importing Libraries ####
